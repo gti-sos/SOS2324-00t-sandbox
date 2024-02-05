@@ -4,4 +4,4 @@ Version inicial de documentacion
 
 version 2 de la doc.
 
-Cambio del Miembro 2
+Cambio del Miembro 1 y del Miembro 2
